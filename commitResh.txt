@@ -1,4 +1,5 @@
 First create a new repository in github
+Giving repository in public mode
 Make Clone by using url of the repository
 Create folder to clone
 After cloning perform the first commit
