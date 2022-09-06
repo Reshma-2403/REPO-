@@ -1,3 +1,4 @@
 First create a new repository in github
 Make Clone by using url of the repository
 Create folder to clone
+After cloning perform the first commit
