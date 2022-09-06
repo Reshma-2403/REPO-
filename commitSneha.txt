@@ -4,3 +4,4 @@ After cloning create some files in the folder
 Adding commit message in the created file
 Updating the commit messages which is created earlier
 Adding branch to the file
+Switching the position of the master
