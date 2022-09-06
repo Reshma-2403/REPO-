@@ -7,3 +7,4 @@ Adding branch to the file
 Switching the position of the master
 Merging the created branch to the origin
 Performing the pull operation
+Removing the local branch which has been created
