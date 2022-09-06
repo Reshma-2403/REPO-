@@ -1,2 +1,3 @@
-adding msg
+Creating an repository
+Clone this repository to the sneha folder
 add
