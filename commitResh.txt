@@ -7,3 +7,4 @@ Save the credentials in the memory
 Performing push operation
 Second commit has been done after pushing operation
 Some more commits to be done 
+Create a branch and switch the master
