@@ -1,2 +1,3 @@
 First create a new repository in github
 Make Clone by using url of the repository
+Create folder to clone
