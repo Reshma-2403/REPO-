@@ -5,6 +5,6 @@ Add commit message in the created file
 Update the commit messages which is created earlier
 Add branch to the file
 Switch the position of the master
-Merging the created branch to the origin
+Merge the created branch to the origin
 Performing the pull operation
 Removing the local branch which has been created
