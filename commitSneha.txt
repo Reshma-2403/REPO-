@@ -4,7 +4,7 @@ After cloning create some files in the folder that has been created
 Add commit message in the created file
 Update the commit messages which is created earlier
 Add branch to the file
-Switching the position of the master
+Switch the position of the master
 Merging the created branch to the origin
 Performing the pull operation
 Removing the local branch which has been created
