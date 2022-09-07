@@ -1,4 +1,4 @@
-Creating an repository
+Creating an new repository in Github
 Clone this repository to the sneha folder
 After cloning create some files in the folder
 Adding commit message in the created file
