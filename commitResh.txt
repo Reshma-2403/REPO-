@@ -8,3 +8,4 @@ Perform push operation
 Second commit has been done after push operation
 Some more commits to be done into the file
 Create a branch and switch the master
+After performing operation is done detele the branch
