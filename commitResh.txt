@@ -2,7 +2,7 @@ First create a new repository in github
 Giving repository in public mode
 Make Clone by using url of the repository
 Create folder to clone with the repository
-After cloning perform the first commit
+After cloning perform the first commit in the file
 Save the credentials in the memory
 Performing push operation
 Second commit has been done after pushing operation
