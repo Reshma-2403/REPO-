@@ -2,7 +2,7 @@ Creating an new repository in Github
 Clone this repository to the sneha folder using url
 After cloning create some files in the folder that has been created
 Add commit message in the created file
-Updating the commit messages which is created earlier
+Update the commit messages which is created earlier
 Adding branch to the file
 Switching the position of the master
 Merging the created branch to the origin
