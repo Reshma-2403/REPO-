@@ -6,5 +6,5 @@ After cloning perform the first commit in the file
 Save the credentials in the memory to store
 Perform push operation 
 Second commit has been done after push operation
-Some more commits to be done 
+Some more commits to be done into the file
 Create a branch and switch the master
